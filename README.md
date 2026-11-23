@@ -35,7 +35,7 @@ watermark.png, terminal-cursor-profile.png  로고 이미지              logo i
 
 `음원` 폴더는 "music(음원)"이라는 뜻입니다. · The `음원` folder means "music".
 
-### 작품 목록 · Works (16)
+### 작품 목록 · Works (18)
 
 | 작품 · Work | 영상 · Video | 소스코드 · Source | 음원 · Music |
 |---|---|---|---|
@@ -54,6 +54,8 @@ watermark.png, terminal-cursor-profile.png  로고 이미지              logo i
 | rainy window | [▶ Shorts](https://www.youtube.com/shorts/otlhOtxHKQk) | [rainwindow.py](<source_code/rainy window/rainwindow.py>) | [bgm.py](<음원/rainy window/rainy window_bgm.py>) · [wav](<음원/rainy window/rainy window_bgm.wav>) |
 | sakura | [▶ Shorts](https://www.youtube.com/shorts/yuRYW6-1_eY) | [sakura.py](<source_code/sakura/sakura.py>) | [bgm.py](<음원/sakura/sakura_bgm.py>) · [wav](<음원/sakura/sakura_bgm.wav>) |
 | seoul night | [▶ Shorts](https://www.youtube.com/shorts/nP22EsIEPv4) | [seoul.py](<source_code/seoul night/seoul.py>) | [bgm.py](<음원/seoul night/seoul night_bgm.py>) · [wav](<음원/seoul night/seoul night_bgm.wav>) |
+| snow | [▶ Shorts](https://www.youtube.com/shorts/qG_dCg5hQ54) | [snowflake.py](<source_code/snow/snowflake.py>) | [bgm.py](<음원/snow/snow_bgm.py>) · [wav](<음원/snow/snow_bgm.wav>) |
+| star trails | [▶ Shorts](https://www.youtube.com/shorts/MXVMPfSaPMU) | [star_trails.py](<source_code/star trails/star_trails.py>) | [bgm.py](<음원/star trails/star trails_bgm.py>) · [wav](<음원/star trails/star trails_bgm.wav>) |
 | volcano | [▶ Shorts](https://www.youtube.com/shorts/tFDgneN8bGY) | [volcano.py](<source_code/volcano/volcano.py>) | [bgm.py](<음원/volcano/volcano_bgm.py>) · [wav](<음원/volcano/volcano_bgm.wav>) |
 
 ### 직접 실행해 보기 · Running the code
