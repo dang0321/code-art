@@ -35,12 +35,14 @@ watermark.png, terminal-cursor-profile.png  로고 이미지              logo i
 
 `음원` 폴더는 "music(음원)"이라는 뜻입니다. · The `음원` folder means "music".
 
-### 작품 목록 · Works (19)
+### 작품 목록 · Works (22)
 
 | 작품 · Work | 영상 · Video | 소스코드 · Source | 음원 · Music |
 |---|---|---|---|
 | anemone and clownfish | [▶ Shorts](https://www.youtube.com/shorts/F0yzZOQ6EIk) | [anemone.py](<source_code/anemone and clownfish/anemone.py>) | [bgm.py](<음원/anemone and clownfish/anemone and clownfish_bgm.py>) · [wav](<음원/anemone and clownfish/anemone and clownfish_bgm.wav>) |
 | aurora | [▶ Shorts](https://www.youtube.com/shorts/PBRTtChh7hw) | [aurora.py](<source_code/aurora/aurora.py>) | [bgm.py](<음원/aurora/aurora_bgm.py>) · [wav](<음원/aurora/aurora_bgm.wav>) |
+| beach afternoon | [▶ Shorts](https://www.youtube.com/shorts/zEkF6x9Wp7E) | [beach.py](<source_code/beach afternoon/beach.py>) | [bgm.py](<음원/beach afternoon/beach afternoon_bgm.py>) · [wav](<음원/beach afternoon/beach afternoon_bgm.wav>) |
+| beach sunlit | [▶ Shorts](https://www.youtube.com/shorts/xH7t_6IMTQg) | [beach.py](<source_code/beach sunlit/beach.py>) | [bgm.py](<음원/beach sunlit/beach sunlit_bgm.py>) · [wav](<음원/beach sunlit/beach sunlit_bgm.wav>) |
 | comet | [▶ Shorts](https://www.youtube.com/shorts/7Md7C2y3T1o) | [meteors.py](<source_code/comet/meteors.py>) | [bgm.py](<음원/comet/comet_bgm.py>) · [wav](<음원/comet/comet_bgm.wav>) |
 | dew web | [▶ Shorts](https://www.youtube.com/shorts/jy1DnBng2TQ) | [dew.py](<source_code/dew web/dew.py>) | [bgm.py](<음원/dew web/dew web_bgm.py>) · [wav](<음원/dew web/dew web_bgm.wav>) |
 | fireflies | [▶ Shorts](https://www.youtube.com/shorts/oqQchUUGo04) | [fireflies.py](<source_code/fireflies/fireflies.py>) | [bgm.py](<음원/fireflies/fireflies_bgm.py>) · [wav](<음원/fireflies/fireflies_bgm.wav>) |
@@ -49,6 +51,7 @@ watermark.png, terminal-cursor-profile.png  로고 이미지              logo i
 | jelly fish | [▶ Shorts](https://www.youtube.com/shorts/XYw-FMAamtI) | [jellyfish.py](<source_code/jelly fish/jellyfish.py>) | [bgm.py](<음원/jelly fish/jelly fish_bgm.py>) · [wav](<음원/jelly fish/jelly fish_bgm.wav>) |
 | jellyfish2 | [▶ Shorts](https://www.youtube.com/shorts/RWrmG4KUW3w) | [jellyfish2.py](<source_code/jellyfish2/jellyfish2.py>) | [bgm.py](<음원/jellyfish2/jellyfish2_bgm.py>) · [wav](<음원/jellyfish2/jellyfish2_bgm.wav>) |
 | jellyfish 3 | [▶ Shorts](https://www.youtube.com/shorts/TK5RwgV6k08) | [jellyfish2.py](<source_code/jellyfish 3/jellyfish2.py>) | [bgm.py](<음원/jellyfish 3/jellyfish 3_bgm.py>) · [wav](<음원/jellyfish 3/jellyfish 3_bgm.wav>) |
+| jellyfish 4 | [▶ Shorts](https://www.youtube.com/shorts/YVWisoi9nFY) | [jellyfish4.py](<source_code/jellyfish 4/jellyfish4.py>) | [bgm.py](<음원/jellyfish 4/jellyfish 4_bgm.py>) · [wav](<음원/jellyfish 4/jellyfish 4_bgm.wav>) |
 | plankton | [▶ Shorts](https://www.youtube.com/shorts/Menp5frA-K8) | [plankton.py](<source_code/plankton/plankton.py>) | [bgm.py](<음원/plankton/plankton_bgm.py>) · [wav](<음원/plankton/plankton_bgm.wav>) |
 | plasma ball | [▶ Shorts](https://www.youtube.com/shorts/nvAyd3_fDBU) | [plasma_ball.py](<source_code/plasma ball/plasma_ball.py>) | [bgm.py](<음원/plasma ball/plasma ball_bgm.py>) · [wav](<음원/plasma ball/plasma ball_bgm.wav>) |
 | rainy window | [▶ Shorts](https://www.youtube.com/shorts/otlhOtxHKQk) | [rainwindow.py](<source_code/rainy window/rainwindow.py>) | [bgm.py](<음원/rainy window/rainy window_bgm.py>) · [wav](<음원/rainy window/rainy window_bgm.wav>) |
